@@ -1,0 +1,52 @@
+.main_conteiner{
+    max-width: 1440 px;
+    width: 100%;
+    /*border: 5px solid red;*/
+    margin: 0 auto;
+}
+/*START-HEADER_SECTION1*/
+.section_1{
+    width: 100%;
+    height: 700px;
+    background-image: url("../images/Rectangle\ 30.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 32px 0 96px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+header{
+    margin-inline: auto;
+    /*border: solid red 5px;*/
+    width: 82.6388889%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+    display: flex;
+    gap: 53px;
+}
+li{
+font-family: 'Gentium Book Basic';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 37px;
+color: #FFFFFF;
+}
+.section1_p{
+margin-inline: auto;
+width: 72.6388889%;
+font-family: 'Gentium Book Basic';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 46px;
+text-align: center;
+color: #C0B4B4;
+}
+/*END-HEADER_SECTION1*/

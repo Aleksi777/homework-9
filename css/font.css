@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Gentium Book Plus';
+    src: url('GentiumBookPlus-Bold.eot');
+    src: url('GentiumBookPlus-Bold.eot?#iefix') format('embedded-opentype'),
+        url('GentiumBookPlus-Bold.woff2') format('woff2'),
+        url('GentiumBookPlus-Bold.woff') format('woff'),
+        url('GentiumBookPlus-Bold.ttf') format('truetype'),
+        url('GentiumBookPlus-Bold.svg#GentiumBookPlus-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
